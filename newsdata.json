@@ -1,1 +1,24 @@
-
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "name": "TechCrunch" },
+      "author": "Jane Doe",
+      "title": "The Future of Web Development in 2026",
+      "description": "How AI and static sites are changing the game for developers everywhere.",
+      "url": "https://techcrunch.com",
+      "urlToImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f",
+      "publishedAt": "2026-02-05T10:00:00Z"
+    },
+    {
+      "source": { "name": "The Verge" },
+      "author": "John Smith",
+      "title": "Why Your API Calls Keep Failing (And How to Fix It)",
+      "description": "A guide to CORS, API plans, and why GitHub Pages might be blocking your requests.",
+      "url": "https://theverge.com",
+      "urlToImage": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+      "publishedAt": "2026-02-05T12:00:00Z"
+    }
+  ]
+}
